@@ -5,6 +5,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
+            "projectName": "javacodespacetest-pcerda-dotcom_c3cf1482"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
             "projectName": "apcsa-template_6353ce7"
         },
         {
